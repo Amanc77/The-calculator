@@ -8,7 +8,9 @@ This project is a simple calculator application implemented using HTML, CSS, and
 
 You can see the live preview of the calculator [here](https://amanc77.github.io/The-calculator/).
 
-[The Calculator](https://github.com/Amanc77/The-calculator/assets/148977902/b5a6566b-3cbb-420c-86e7-dfb3b00e661a)
+
+
+![Screenshot from 2024-03-25 10-44-30](https://github.com/Amanc77/The-calculator/assets/148977902/a0adfdd8-c37b-413e-be0b-91d493b51f7f)
 
 
 
@@ -33,3 +35,13 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://amanc77.github.io/The-calculator/
+
+
+## Acknowledgements
+
+- **HTML, CSS, and JavaScript**: Special thanks to the creators and maintainers of these technologies for making this project possible.
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to [amankrc7@email.com](mailto:amankrc7@gmail.com).
